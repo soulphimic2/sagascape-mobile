@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "SagaScape",
+    "slug": "sagascape-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1a1e2b"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourname.sagascape"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1a1e2b"
+      },
+      "package": "com.yourname.sagascape"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
